@@ -1,3 +1,2 @@
-Source code from the video "Create a MERN CRUD App (1/6) - Creating an Express backend".
-https://www.youtube.com/watch?v=jK7mcMrYzj8
-
+Source code from the video "Create a MERN CRUD App (2/6) - Creating a React frontend".
+https://www.youtube.com/watch?v=jjuXRSb1UT8
